@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 // example 1
 for (let i = 0; i <= 3; i++) {
     console.log("pakistan");
@@ -54,3 +52,4 @@ cleanestCities3.forEach((element) => {
 if (cityFound === false) {
     console.log("city is not found");
 }
+export {};
